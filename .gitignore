@@ -19,3 +19,7 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw*
+
+# Ignoring screenshot & video output directory
+screenshots/
+videos/
